@@ -39,3 +39,10 @@ Discussion
 .. image:: https://badges.gitter.im/Join%20Chat.svg
     :target: https://gitter.im/acdha/image-mining?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
     :alt: Join Chat on Gitter.im
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
